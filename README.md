@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rosia
-- 👀 I’m interested in creating games and world building
-- 🌱 I’m currently working to improve my skills in technical art and animation
+- 🌱 I’m currently working to improve my skills in UI/UX Design
 - 💞️ I’m looking to collaborate on games, find some past projects on https://ayperosia.itch.io/
 - 📫 How to reach me -> via twitter (https://twitter.com/ayperosia) or discord!
 
